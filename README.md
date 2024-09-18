@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Dotse</h1>
-![Angry Coding GIF](https://raw.githubusercontent.com/codewithchaos/codewithchaos/main/gitWorkFlow/angryCoding.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codewithchaos/codewithchaos/main/gitWorkFlow/angryCoding.gif">
+</div>
 <h3 align="center">I am a backend developer who loves to take on the unknown and see what's on the other side.</h3>
 
 - 🔭 I’m currently working on [a church attendance system](...)
